@@ -162,6 +162,22 @@ For significant changes, open an issue first to discuss scope and approach.
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Screenshot](src/assets/0.PNG)
+
+### Analyze Page
+![Analyze Screenshot](src/assets/1.png)
+
+### Results Page
+![Results Screenshot](src/assets/2.PNG)
+
+### Export Page
+![Export Screenshot](src/assets/3.PNG)
+
+---
+
 ## License
 
 This project is licensed under the **MIT License**.  See [`LICENSE`](LICENSE) for details.
