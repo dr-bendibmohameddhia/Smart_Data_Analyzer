@@ -124,37 +124,6 @@ MAX_FILE_SIZE_MB=500
 STREAMLIT_SERVER_PORT=8080
 ```
 
-## Screenshots
-
-_Replace the placeholder paths below with actual screenshots after your first run._
-
-**Home — file upload and preview**
-```
-![Home page](docs/screenshots/home.png)
-```
-
-**Overview tab — KPIs, type breakdown, missing-value chart**
-```
-![Overview tab](docs/screenshots/overview.png)
-```
-
-**Distributions tab — histogram with KDE overlay**
-```
-![Distributions tab](docs/screenshots/distributions.png)
-```
-
-**Relationships tab — correlation heat-map**
-```
-![Correlation heatmap](docs/screenshots/correlation.png)
-```
-
-**Outliers tab — strip chart with highlighted anomalies**
-```
-![Outliers tab](docs/screenshots/outliers.png)
-```
-
----
-
 ## Running Tests
 
 ```bash
@@ -196,17 +165,4 @@ For significant changes, open an issue first to discuss scope and approach.
 ## License
 
 This project is licensed under the **MIT License**.  See [`LICENSE`](LICENSE) for details.
-
-## Screenshots
-
-### Home Page
-![Home Screenshot](assets/0.png)
-
-### Analyze Page
-![Analyze Screenshot](assets/1.png)
-
-### Export Page
-![Export Screenshot](assets/3.png)
-=======
-# Smart_Data_Analyzer
->>>>>>> 4489fbead3bc416ec26ae9f8e9fda6c869a9c1a7
+Developed by BENDIB Mohamed Dhia.
