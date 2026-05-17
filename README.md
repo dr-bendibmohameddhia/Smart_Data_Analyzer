@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Data Analyzer
 
 > Instant statistical profiles, interactive visualisations, and data-cleaning tools for any CSV, Excel, or Parquet file — no code required.
@@ -237,3 +238,6 @@ This project is licensed under the **MIT License**.  See [`LICENSE`](LICENSE) fo
 
 ### Export Page
 ![Export Screenshot](assets/3.png)
+=======
+# Smart_Data_Analyzer
+>>>>>>> 4489fbead3bc416ec26ae9f8e9fda6c869a9c1a7
