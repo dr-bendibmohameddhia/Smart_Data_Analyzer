@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Data Analyzer
 
 > Instant statistical profiles, interactive visualisations, and data-cleaning tools for any CSV, Excel, or Parquet file — no code required.
@@ -124,36 +123,6 @@ MAX_FILE_SIZE_MB=500
 # Streamlit server port (default: 8501)
 STREAMLIT_SERVER_PORT=8080
 ```
-
----
-
-## Deployment
-
-### Streamlit Community Cloud (free tier)
-
-1. Push the repository to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io) and click **New app**.
-3. Set the main file path to `src/main.py`.
-4. Click **Deploy**.
-
-### Docker
-
-```dockerfile
-FROM python:3.11-slim
-WORKDIR /app
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
-COPY . .
-EXPOSE 8501
-CMD ["streamlit", "run", "src/main.py", "--server.headless=true"]
-```
-
-```bash
-docker build -t smart-data-analyzer .
-docker run -p 8501:8501 smart-data-analyzer
-```
-
----
 
 ## Screenshots
 
